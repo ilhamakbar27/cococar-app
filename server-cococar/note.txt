@@ -1,0 +1,17 @@
+requirements midtrans
+
+1. server key
+SB-Mid-server-CJYxjvKrjIpSbFKV-HMx2Y-y
+2. order id 
+1
+3. gross amount
+berapa yg user bayar
+
+
+ 67a04725-61d7-4251-a0ce-d2fa27f09915
+
+requirement client 
+ client key SB-Mid-client-idyAHAcKyQo9M4Q6
+transaction_token 
+
+ snap js url	https://app.sandbox.midtrans.com/snap/snap.js
